@@ -1,5 +1,9 @@
 # VUE-SWAPI
-A fun tool to discover Star Wars stuff (Vue + Axios + SWAPI)
+A fun tool to discover Star Wars stuff (Vue + Axios + SWAPI + PWA)
+
+Demo: https://vue-swapi.herokuapp.com/#/people
+
+![alt text](https://raw.githubusercontent.com/oceangravity/vue-swapi/branch/public/img/screen.png)
 
 ## Project setup
 ```
