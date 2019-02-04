@@ -1,4 +1,5 @@
-# ssilva-star-wars
+# VUE-SWAPI
+A fun tool to discover Star Wars stuff (Vue + Axios + SWAPI)
 
 ## Project setup
 ```
